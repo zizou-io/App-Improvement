@@ -69,24 +69,23 @@ media platform, say Facebook, it is due to the following reasons:
 
 Netflix can leverage the points mentioned above (as it does get Facebook data of users) to
 help in these types of use cases:
+
 **Use Cases:**
-**1.** I am not sure what movie/TV series to watch. I am a bit tired of the
+<br>**1.** I am not sure what movie/TV series to watch. I am a bit tired of the
 recommendation system. Me too is so a heated topic, I wish I could watch some
 of it. I wonder what my friends have watched/ watching? What type of shows
-do the Dance Cub guys watch, I wish I could know.
-**2.** Wow, that’s funny! I could create a meme out of it. Hmm.. too much work,
-will do it later. (That later never comes!)
-**3.** Wow, I need to share this dialogue with Frank Underwood, but wouldn’t that be
+do the Dance Cub guys watch, I wish I could know. <br>**2.** Wow, that’s funny! I could create a meme out of it. Hmm.. too much work,
+will do it later. (That later never comes!) <br>**3.** Wow, I need to share this dialogue with Frank Underwood, but wouldn’t that be
 too stupid? Forget, let me keep the intelligence to me :P
 
 Based on these cases, we can come up with the following features. I will provide the details
 of these features, what feature should be prioritised and how to check if the feature is
 working as we expect. Also, I discovered a strong reason to push feature 3 which I will discuss
 later.
+
 **Features:**
-**1.** Recommendation system based on user's social media friends, groups, pages
-and trends they are following
-**2.** Social profile of users provided by Spotify to share what they have
+<br>**1.** Recommendation system based on user's social media friends, groups, pages
+and trends they are following <br>**2.** Social profile of users provided by Spotify to share what they have
 watched/watching, planning to watch, their My List, etc.
 **3.** Sharing Netflix to social media through dialogues, video frames and memes.
 
@@ -116,6 +115,8 @@ the dialogue that is present in the current frame, the video frame itself and �
 meme’ where Netflix can provide a small additional pop-up to do small edits on the frame
 and allow it to post directly on various social media platforms.
 
+![](https://github.com/zizou-io/App-Improvement/blob/main/Picture1.png)
+---
 
 **Metrics to compare the 3 features:**
 If I have to decide on only one of the features or priority of features to implement, I would try
